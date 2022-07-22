@@ -1,4 +1,5 @@
 import React from "react";
+import './app-header.css'
 
 const AppHeader = () => {
     return (
@@ -7,7 +8,6 @@ const AppHeader = () => {
             <h2>5 записей, из них понравилось 0</h2>
         </div>
     )
-
 }
 
 export default AppHeader;
